@@ -1,4 +1,4 @@
 Estas son dos paginas realizadas por mi, la primera es de un cliente: http://www.conductascaninas.com
 
-La segunda la hice para como una pagina ficticia, simula ser un blog de peliculas: https://lautiromero.github.io/caseteve/ 
+La segunda es una pagina ficticia, simula ser un blog de peliculas: https://lautiromero.github.io/caseteve/ 
 IMPORTANTE! No es responsive design, solo se aprecia con dispositivos con una resolucion mayor a 800 pixeles de ancho. 
